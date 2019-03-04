@@ -1,6 +1,7 @@
 # racket-space-invaders
 
 ## Introduction
+https://www.youtube.com/watch?v=6uJY_Vk9bB8  
 This is a clone of the famous Space Invaders created with Racket. You are in control of the last tank on Earth to fight against those 
 pesky invaders.
 
